@@ -43,11 +43,3 @@ Modeling, cleaning, initializing and analyzing data to extract insights about co
     `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020
 and transactions.market_code="Mark001";`
 
-![](https://github.com/abduallheid/DATA_ANALYSYS-sales_insight-/blob/main/sain.png)
-
-DATA soruce : ATLIQ HARD WARE c.
-
-
-## Here report example
-
-[embed] https://app.powerbi.com/groups/me/reports/2227add3-fda5-495d-baa8-d7e00fc5a44d?ctid=bc614756-3d44-40dc-a3b9-ac7117ae1e50&pbi_source=linkShare [/embed]
